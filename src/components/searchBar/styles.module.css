@@ -1,0 +1,151 @@
+.searchBar_container {
+  position: relative;
+  background-color: #cde7ff;
+  width: 100%;
+  height: 696px;
+  display: flex;
+  padding: 131px 100px 295px 100px;
+  overflow: hidden;
+}
+
+.searchBar_container::before {
+  content: "";
+  position: absolute;
+  top: 120px;
+  right: 0px;
+  width: 1677px;
+  height: 953px;
+  background-image: url("../../assets/icons/rectangle12.svg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  z-index: 0;
+}
+
+.searchBar_textContainer {
+  width: 100%;
+  z-index: 1;
+}
+
+.searchBar_textContainer h1 {
+  font-size: 64px;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.85);
+  max-width: 628px;
+  padding-bottom: 15px;
+}
+
+.searchBar_imgContainer {
+  width: 100%;
+}
+
+.searchBar_InputContainer {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  max-width: 918px;
+  background-color: white;
+  height: 100%;
+}
+.searchBar_FormContainer {
+  display: flex;
+  max-width: 1132px;
+  width: 100%;
+  height: 105px;
+  align-items: center;
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.searchBar_inputSearchContainer {
+  display: flex;
+  gap: 13.5px;
+  width: 50%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 132px 0px 31px;
+}
+
+.searchBar_inputLocationContainer {
+  display: flex;
+  gap: 13.5px;
+  width: 50%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 128px 0px 170px;
+}
+
+.searchBar_inputLocationContainer input,
+.searchBar_inputSearchContainer input {
+  border: none;
+  font-size: 18px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.searchBar_inputSearchContainer img {
+  height: 28.3px;
+  width: 22.9px;
+  transform: rotate(-45deg);
+}
+
+.searchBar_inputLocationContainer img {
+  height: 31.72px;
+  width: 22.81px;
+}
+
+.searchBar_btn {
+  background-color: #274059;
+  color: white;
+  padding: 41px 70px;
+  border: none;
+  height: 105px;
+  width: 213.28px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.pipe {
+  border-right: 1px solid rgba(0, 0, 0, 0.5);
+  height: 20px;
+}
+
+.employerCompanies {
+  height: 180px;
+  padding: 0px 100px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.companiesList {
+  display: flex;
+  gap: 56px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.disnep {
+  width: 112px;
+}
+
+.facebook,
+.microsoft {
+  width: 115px;
+}
+
+.sony {
+  width: 111px;
+}
+
+.cola {
+  width: 105px;
+}
+
+.employerCompanies p {
+  font-weight: 600;
+  font-size: 16px;
+  color: rgba(105, 105, 105, 0.8);
+}

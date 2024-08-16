@@ -1,0 +1,53 @@
+.vacancyCardListContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 0 100px;
+  background-color: #e4f2ff;
+}
+
+.vacancyCardList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 185px;
+  row-gap: 40px;
+  flex-wrap: wrap;
+}
+
+.newVacationHeaderContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 11.5px;
+  margin-bottom: 42.5px;
+}
+
+.newVacationHeader {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 32.87px;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.newVacationHeaderDescription {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 17.61px;
+  color: rgba(141, 141, 141, 0.8);
+}
+
+.btn {
+  background-color: #274059;
+  padding: 20px 50px;
+  width: 240px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23.48px;
+}
+
+.btnContainer {
+  margin-top: 91px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,58 @@
+.vacantionCardContainer {
+  height: 350px;
+  max-width: 450px;
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 2px 4px 4px 0 rgba(0, 0, 0, 0.15);
+  padding: 40px 0 40px 46px;
+}
+
+.departmentContainer {
+  display: flex;
+  gap: 17px;
+}
+
+.department {
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 18.78px;
+  color: rgba(141, 141, 141, 0.8);
+}
+
+.description {
+  margin-top: 40px;
+  font-weight: 700px;
+  font-size: 22px;
+  line-height: 25.83px;
+  color: rgba(0, 0, 0, 0.8);
+  max-width: 272px;
+  width: 100%;
+}
+
+.location {
+  margin-top: 35px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 54px;
+}
+
+.locationText {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 17.61px;
+  color: rgba(141, 141, 141, 0.8);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.lastData {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 17.61px;
+  color: rgba(141, 141, 141, 0.8);
+}

@@ -1,0 +1,49 @@
+.container {
+  background-color: #e4f2ff;
+  padding: 107px 100px 126px 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+}
+
+.cardsContainer {
+  display: flex;
+  align-items: center;
+  column-gap: 92px;
+  row-gap: 27px;
+  flex-wrap: wrap;
+}
+
+.jobHeader {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 32.87px;
+  color: rgba(0, 0, 0, 0.85);
+  max-width: 200px;
+  width: 100%;
+}
+
+.moreCategories {
+  font-weight: 500;
+  size: 16px;
+  line-height: 18.78px;
+  color: rgba(0, 0, 0, 0.65);
+  max-width: 270px;
+  width: 100%;
+  height: 190px;
+  border: 2px solid rgba(0, 0, 0, 0.65);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 22px;
+  padding: 69px 0 37px 40px;
+}
+
+.arrowImg {
+  max-width: 21px;
+}
+
+.moreCategoriesText {
+  max-width: 108px;
+  width: 100%;
+}

@@ -1,0 +1,46 @@
+.footerContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #52606d;
+  width: 100%;
+  padding: 56px 100px 65px 100px;
+  gap: 48px;
+}
+
+.cityContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+}
+
+.cityListContainer {
+  display: flex;
+  gap: 80px;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  color: #d0e8ff;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 25.83px;
+}
+
+.footerSozialMedia {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-top: 54px;
+  border-top: 2px solid #465461;
+}
+
+.footerSozialMediaContainer {
+  display: flex;
+  gap: 36px;
+}
+
+.popularCity {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 25.83px;
+}
