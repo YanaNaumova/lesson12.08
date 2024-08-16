@@ -6,8 +6,6 @@ import styles from "./styles.module.css";
 import VacancyCard from "../vacancyCard";
 
 function VacancyCardList() {
-  // Создайте массив объектов, каждый из которых содержит информацию о вакансии, включая
-  // категорию, текст вакансии, местоположение, картинку и название компании.
   const vacancies = [
     {
       color: "#5182FF",

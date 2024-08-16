@@ -9,6 +9,7 @@
 .cardsContainer {
   display: flex;
   align-items: center;
+  justify-content: center;
   column-gap: 92px;
   row-gap: 27px;
   flex-wrap: wrap;
