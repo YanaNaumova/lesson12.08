@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/lesson12.08/static/css/main.750bb106.css",
+    "main.js": "/lesson12.08/static/js/main.592de318.js",
+    "static/media/cola.svg": "/lesson12.08/static/media/cola.f7a5c8be35dc354a83f399c333282a43.svg",
+    "static/media/disnep.svg": "/lesson12.08/static/media/disnep.d7ac06606201d56b82858d7c6627d76d.svg",
+    "static/media/microsoft.svg": "/lesson12.08/static/media/microsoft.ae01841979d86252438cffe2b5c28bcb.svg",
+    "static/media/colaMin.svg": "/lesson12.08/static/media/colaMin.8f5732221bcbdabbc9eb660c916592ff.svg",
+    "static/media/facebook.svg": "/lesson12.08/static/media/facebook.6e4d49394cef9ab8e70d10a430ccb0a1.svg",
+    "static/media/cooljob.svg": "/lesson12.08/static/media/cooljob.9851b304b1cea91fd6c8cdaf3f6f0024.svg",
+    "static/media/cooljobFooter.svg": "/lesson12.08/static/media/cooljobFooter.0de100234e599b59a60d49f6c4f2123b.svg",
+    "static/media/sony.svg": "/lesson12.08/static/media/sony.9c7e120de2f33f7be88921f23827c3fd.svg",
+    "static/media/bandage.svg": "/lesson12.08/static/media/bandage.468cd29f8fecc3e518ad2b5ea93bd033.svg",
+    "static/media/facebookMin.svg": "/lesson12.08/static/media/facebookMin.270ce5bbdc7504c113a7edd636673208.svg",
+    "static/media/sonyMin.svg": "/lesson12.08/static/media/sonyMin.1275d30959329a62d939941dc14d9b40.svg",
+    "static/media/forkKnife.svg": "/lesson12.08/static/media/forkKnife.971678c40088171dfc24a79ec2eb717a.svg",
+    "static/media/cart.svg": "/lesson12.08/static/media/cart.fce3ded0b64b3d21b73b018978122dbf.svg",
+    "static/media/car.svg": "/lesson12.08/static/media/car.3664f0da346fd5dcc8435d0547509fc4.svg",
+    "static/media/movie.svg": "/lesson12.08/static/media/movie.0f873bf8e9b33f2957f7d472ef879215.svg",
+    "static/media/circle.svg": "/lesson12.08/static/media/circle.ef755648c43454a74f65a3c619bcfcd7.svg",
+    "static/media/googleIcon.svg": "/lesson12.08/static/media/googleIcon.b2524d68194cf3cb1ea55c3114218777.svg",
+    "static/media/linkedinIcon.svg": "/lesson12.08/static/media/linkedinIcon.a3aaf93246e36c60c07c85397d70a442.svg",
+    "static/media/twiterIcon.svg": "/lesson12.08/static/media/twiterIcon.2199107019945c15f13672f99d5fe777.svg",
+    "index.html": "/lesson12.08/index.html",
+    "static/media/box.svg": "/lesson12.08/static/media/box.42d4d5ca6a9de888620d8f787e853dd3.svg",
+    "static/media/message.svg": "/lesson12.08/static/media/message.d3214462ad802a2171ca8e6d714fa685.svg",
+    "static/media/window.svg": "/lesson12.08/static/media/window.2f8bf1f2bfad1611a0cecf4c790c5d85.svg",
+    "static/media/location.svg": "/lesson12.08/static/media/location.24990d2b06d480a9f82810576168a6bc.svg",
+    "static/media/search.svg": "/lesson12.08/static/media/search.56e7dda1a467a84134c63054589976ce.svg",
+    "static/media/feFacebookIcon.svg": "/lesson12.08/static/media/feFacebookIcon.8bc50dd1dc945d2a1aa3ca68e81f8f6f.svg",
+    "static/media/rectangle12.svg": "/lesson12.08/static/media/rectangle12.543d9b159c33b244faa1.svg",
+    "static/media/arrow.svg": "/lesson12.08/static/media/arrow.d6f576f15b2c5f7126a43c29de9ba6d4.svg",
+    "main.750bb106.css.map": "/lesson12.08/static/css/main.750bb106.css.map",
+    "main.592de318.js.map": "/lesson12.08/static/js/main.592de318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750bb106.css",
+    "static/js/main.592de318.js"
+  ]
+}
